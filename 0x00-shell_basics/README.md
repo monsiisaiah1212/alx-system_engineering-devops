@@ -1,1 +1,1 @@
-Long format with user and group IDs
+script that creates a directory named
