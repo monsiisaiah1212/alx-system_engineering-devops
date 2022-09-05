@@ -1,1 +1,1 @@
-write a script that write onto the file
+a script that duplicates the last line of the file iacta
