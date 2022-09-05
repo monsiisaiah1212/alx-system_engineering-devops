@@ -1,2 +1,2 @@
-19-AZ
-tr 'Ac' 'Ze'
+#!/bin/bash
+tr "A" "Z" | tr "c" "e"
