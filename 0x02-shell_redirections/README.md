@@ -1,1 +1,1 @@
-Id prefer the first one actually
+Write a script that displays the third line of the file iacta
