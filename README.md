@@ -1,1 +1,1 @@
-Write a script that displays the result of BREATH to the power LOVE
+There are 10 types of people in the world -- Those who understand binary, and those who dont
